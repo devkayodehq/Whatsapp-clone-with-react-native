@@ -1,2 +1,2 @@
-# Whatsapp clone with react native
- Whatsapp clone with react native
+# whatsApp clone with react native
+ whatsApp clone with react native
